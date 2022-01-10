@@ -1,0 +1,40 @@
+{
+  "streams": [
+    {
+      "title": "stream",
+      "description": "this is a good stream",
+      "userId": "102824777446207974072",
+      "id": 1
+    },
+    {
+      "title": "Itzy",
+      "description": "dance cover",
+      "userId": "102824777446207974072",
+      "id": 2
+    },
+    {
+      "title": "This is stream",
+      "description": "i made it!!",
+      "userId": "102824777446207974072",
+      "id": 4
+    },
+    {
+      "title": "This is stream",
+      "description": "i made it!!",
+      "userId": "102824777446207974072",
+      "id": 5
+    },
+    {
+      "title": "this is second time",
+      "description": "refactor",
+      "userId": "102824777446207974072",
+      "id": 6
+    },
+    {
+      "title": "hip hip horrayy",
+      "description": "myself",
+      "userId": "102824777446207974072",
+      "id": 8
+    }
+  ]
+}
